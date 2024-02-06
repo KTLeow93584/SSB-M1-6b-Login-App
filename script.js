@@ -1,7 +1,7 @@
 const localUserData = {
   name: "Kaz",
-  username: "LKzKSH",
-  password: "4444"
+  username: "admin",
+  password: "123456"
 };
 
 function login() {
