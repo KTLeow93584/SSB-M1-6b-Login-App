@@ -8,6 +8,9 @@
 ## Installation/Setup
 - Clone, fork or download the project as zip.
 - Open up the "index.html" file on your browser.
+- Credentials:
+
+Username: <b>admin</b> / Password: <b>123456</b>
 
 ## Preview
 <div align="center">
